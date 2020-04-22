@@ -1,0 +1,22 @@
+2020-04-19 14:04:270 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:296 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:671 INFO  HomePage :34 - Clicking on login link + _loginLink.toString()
+2020-04-19 14:04:479 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:717 INFO  HomePage :39 - Clicking on register link + _registerLink.toString()
+2020-04-19 14:04:831 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:762 INFO  HomePage :34 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 14:04:385 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:20 INFO  HomePage :39 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-19 14:04:664 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:324 INFO  HomePage :34 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 14:04:363 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:799 INFO  HomePage :39 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-19 14:04:166 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:19 INFO  HomePage :34 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 14:04:205 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:163 INFO  HomePage :39 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
+2020-04-19 14:04:19 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:473 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:971 INFO  HomePage :34 - Clicking on login linkProxy element for: DefaultElementLocator 'By.linkText: Log In'
+2020-04-19 14:04:104 INFO  BrowserSelector :24 - Launching Chrome Browser
+2020-04-19 14:04:245 INFO  HomePage :39 - Clicking on register linkProxy element for: DefaultElementLocator 'By.linkText: Register'
